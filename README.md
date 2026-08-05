@@ -1,4 +1,5 @@
 # College Predictor (Streamlit)
+app link:https://collegepredictormhtcet-mxhxcpi38gj8pz3ze2n7fe.streamlit.app/Course_Predictor
 
 Two-page Streamlit app:
 - **Institute Predictor** — from percentile, category, seat type, gender, course
