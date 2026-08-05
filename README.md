@@ -4,7 +4,8 @@ app link:https://collegepredictormhtcet-mxhxcpi38gj8pz3ze2n7fe.streamlit.app/Cou
 Two-page Streamlit app:
 - **Institute Predictor** — from percentile, category, seat type, gender, course
 - **Course Predictor** — from percentile, category, seat type, gender, institute
-
+app  link:
+https://collegepredictormhtcet-mxhxcpi38gj8pz3ze2n7fe.streamlit.app/Course_Predictor
 Streamlit auto-generates the sidebar navigation from the `pages/` folder —
 no routing code needed.
 
