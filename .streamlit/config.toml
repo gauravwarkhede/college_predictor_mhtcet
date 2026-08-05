@@ -1,0 +1,7 @@
+# Base theme kept minimal — actual color theming (10 switchable themes) is
+# handled dynamically via custom CSS in theme.py, not here.
+[server]
+headless = true
+
+[theme]
+base = "dark"
